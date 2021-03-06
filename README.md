@@ -1,3 +1,3 @@
 # kokoa clone 2020 update
 
-css got so much beeter!
+HTML& css ARE so much beeter!
